@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hey, I'm Oleksii 👋
 
-<!--
-**goodniceweb/goodniceweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer with 12+ years of experience building web applications that scale. I specialize in **Ruby/Rails** and **Elixir/Phoenix** on the backend, with solid frontend chops in **React** and **JavaScript**.
 
-Here are some ideas to get you started:
+## What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build reliable backend systems, design APIs, optimize databases, and architect microservices. Currently working with **Elixir, Phoenix Framework, and LiveView** at [Ginion Group](https://www.gms-mobility.com/), building a car mobility platform that connects employers, employees, dealers, and leasers.
+
+Previously, I've helped startups raise over **$54M in funding** through the software I've built — including CareDox (healthcare, $34M Series C) and others. I've also led engineering teams, managed cross-team communication, and mentored developers at companies ranging from small startups to 300+ engineer organizations.
+
+## Tech Stack
+
+```
+Backend:    Ruby · Rails · Elixir · Phoenix · LiveView · Go
+Frontend:   React · JavaScript · Vue · HTML/CSS
+Data:       PostgreSQL · MySQL · MongoDB · Redis · Elasticsearch
+Infra:      Docker · Kubernetes · AWS · GCE · Nginx
+Tools:      Git · Vim · CI/CD · Microservices · REST APIs
+```
+
+## Side Projects & Open Source
+
+- 🔧 [git-last-branch](https://github.com/goodniceweb/git-last-branch) — A handy Git utility written in Go\
+- 📦 [dotfiles](https://github.com/goodniceweb/dotfiles) — My Vim-centric dev environment config
+- 🚀 Founded **Bookify.Video** — an AI-powered platform that transforms social media content into physical books
+
+## Writing
+
+I occasionally write about backend development, Elixir, and developer tooling on my blog: [blog.goodniceweb.me](https://blog.goodniceweb.me)
+
+## Let's Connect
+
+I'm open to interesting **full-time roles**, **open-source collaboration**, and **paid consultancy** on Ruby/Elixir projects.
+
+- ✉️ [goodniceweb@gmail.com](mailto:goodniceweb@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/oleksiicherkashyn-ua)
+- 🌍 Based in Antalya, Turkey — working remotely with teams worldwide
