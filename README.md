@@ -30,7 +30,7 @@ I occasionally write about backend development, Elixir, and developer tooling on
 
 ## Let's Connect
 
-I'm open to interesting **full-time roles**, **open-source collaboration**, and **paid consultancy** on Ruby/Elixir projects.
+I'm open to **open-source collaboration** and **paid consultancy** on Ruby/Elixir projects.
 
 - ✉️ [goodniceweb@gmail.com](mailto:goodniceweb@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/oleksiicherkashyn-ua)
