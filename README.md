@@ -4,15 +4,15 @@ Senior Software Engineer with 12+ years of experience building web applications 
 
 ## What I Do
 
-I build reliable backend systems, design APIs, optimize databases, and architect microservices. Currently working with **Elixir, Phoenix Framework, and LiveView** at [Ginion Group](https://www.gms-mobility.com/), building a car mobility platform that connects employers, employees, dealers, and leasers.
+I build reliable backend systems, design APIs, optimize databases, and architect microservices. Currently working with **Elixir, Phoenix Framework, and LiveView** at [Elixirator](https://elixirator.com/), building custom software solutions for our clients.
 
 Previously, I've helped startups raise over **$54M in funding** through the software I've built — including CareDox (healthcare, $34M Series C) and others. I've also led engineering teams, managed cross-team communication, and mentored developers at companies ranging from small startups to 300+ engineer organizations.
 
 ## Tech Stack
 
 ```
-Backend:    Ruby · Rails · Elixir · Phoenix · LiveView · Go
-Frontend:   React · JavaScript · Vue · HTML/CSS
+Backend:    Ruby · Rails · Elixir · Phoenix · Go
+Frontend:   Hotwire · LiveView · React · JavaScript · Vue · HTML/CSS
 Data:       PostgreSQL · MySQL · MongoDB · Redis · Elasticsearch
 Infra:      Docker · Kubernetes · AWS · GCE · Nginx
 Tools:      Git · Vim · CI/CD · Microservices · REST APIs
